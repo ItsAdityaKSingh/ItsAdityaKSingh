@@ -37,7 +37,10 @@
 <br/>
 <a href="https://github.com/kailash360/github-readme-activity-graph"><img alt="Aditya Kumar Singh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=itsadityaksingh&bg_color=0D1117&color=FF8539&line=FF8539&point=FFFFFF&hide_border=true" /></a>
 <br/>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ItsAdityaKSingh&show_icons=true&theme=radical" /></p>
+<br/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsadityaksingh&layout=compact"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ItsAdityaKSingh&show_icons=true&theme=swift" /></p>
+
 
 ## 📬 Reach me out
 <p align="left">
