@@ -41,6 +41,6 @@
 
 ## 📬 Reach me out
 <p align="left">
-<a href = "https://www.linkedin.com/in/gurpreet-singh-chopra/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/itsadityaksingh/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/itsadityaksingh/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
