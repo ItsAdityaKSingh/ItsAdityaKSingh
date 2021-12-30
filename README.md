@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **SoChem App**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter & GraphQL**
 
 - 👨‍💻 All of my repositories are available at **[My Repositories](https://github.com/ItsAdityaKSingh?tab=repositories)**
 
