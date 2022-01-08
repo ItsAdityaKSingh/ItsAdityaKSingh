@@ -4,7 +4,7 @@
 
 ### 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **SoChem App**
+- 🔭 I’m currently working on **SoChem and Insti App**
 
 - 🌱 I’m currently learning **Flutter & GraphQL**
 
