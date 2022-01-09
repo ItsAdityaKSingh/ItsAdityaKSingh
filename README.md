@@ -19,7 +19,7 @@
 <a href="https://github.com/ItsAdityaKSingh/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=itsadityaksingh">
 </a> <a href="https://github.com/itsadityaksingh?tab=followers"><img src="https://img.shields.io/github/followers/itsadityaksingh?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
+</p
   
 ### 🎶 Vibing to
 [![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7?si=3cl_3ZkyRLWj-AUGzT867g)
