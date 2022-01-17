@@ -1,4 +1,9 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aditya</h1>
+<!-- <p align="center">
+    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=40&center=true&lines=Hi+There!;I'm+Aditya)](https://git.io/typing-svg)
+    
+</p> -->
 <h3 align="left">A Software Development Enthusiast</h3>
 <img src="./aditya-home.jpg" />
 
