@@ -9,7 +9,7 @@
 
 ### 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **SoChem and Insti App**
+- 🔭 I’m currently working on **[SoChem](https://github.com/Sochem/Sochem-App) and Insti App**
 
 - 🌱 I’m currently learning **Flutter & GraphQL**
 
