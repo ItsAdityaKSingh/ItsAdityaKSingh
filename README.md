@@ -55,6 +55,10 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsadityaksingh&layout=compact"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ItsAdityaKSingh&show_icons=true&theme=swift" /></p>
 
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 
 ## 📬 Reach me out
 <p align="left">
