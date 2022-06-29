@@ -55,9 +55,11 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsadityaksingh&layout=compact"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ItsAdityaKSingh&show_icons=true&theme=swift" /></p>
 
-<!--START_SECTION:activity-->
+### ⚡ Recent GitHub Activity
+<!--RECENT_ACTIVITY:start-->
 
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:end-->
+
 
 
 ## 📬 Reach me out
