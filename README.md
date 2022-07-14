@@ -57,16 +57,16 @@
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [ItsAdityaKSingh/csoc-leaderboard](https://github.com/ItsAdityaKSingh/csoc-leaderboard) from [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
-2. 🔱 Forked [ItsAdityaKSingh/Google-Kick-Start-Round-D-2022](https://github.com/ItsAdityaKSingh/Google-Kick-Start-Round-D-2022) from [sourav959/Google-Kick-Start-Round-D-2022](https://github.com/sourav959/Google-Kick-Start-Round-D-2022)
-3. 💬 Commented on [#131](https://github.com/CCExtractor/beacon/issues/131#issuecomment-1174717161) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
-4. 💬 Commented on [#129](https://github.com/CCExtractor/beacon/issues/129#issuecomment-1174714772) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
-5. 💬 Commented on [#159](https://github.com/CCExtractor/beacon/issues/159#issuecomment-1173405582) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
-6. 💬 Commented on [#162](https://github.com/CCExtractor/beacon/issues/162#issuecomment-1173404778) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
-7. 💬 Commented on [#160](https://github.com/CCExtractor/beacon/issues/160#issuecomment-1173404114) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
-8. 💬 Commented on [#163](https://github.com/CCExtractor/beacon/issues/163#issuecomment-1173399189) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
-9. 💬 Commented on [#99](https://github.com/CCExtractor/beacon-backend/pull/99#issuecomment-1167131469) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)
-10. 🤝 Became collaborator on [COPS-CSOC-2022/CSOC22-Week1](https://github.com/COPS-CSOC-2022/CSOC22-Week1)
+1. 💬 Commented on [#34](https://github.com/COPS-IITBHU/csoc-leaderboard/pull/34#discussion_r920868122) in [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
+2. 💬 Commented on [#34](https://github.com/COPS-IITBHU/csoc-leaderboard/pull/34#discussion_r920849416) in [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
+3. 💬 Commented on [#34](https://github.com/COPS-IITBHU/csoc-leaderboard/pull/34#discussion_r920847320) in [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
+4. 💪 Opened PR [#34](https://github.com/COPS-IITBHU/csoc-leaderboard/pull/34) in [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
+5. 🔱 Forked [ItsAdityaKSingh/csoc-leaderboard](https://github.com/ItsAdityaKSingh/csoc-leaderboard) from [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
+6. 🔱 Forked [ItsAdityaKSingh/Google-Kick-Start-Round-D-2022](https://github.com/ItsAdityaKSingh/Google-Kick-Start-Round-D-2022) from [sourav959/Google-Kick-Start-Round-D-2022](https://github.com/sourav959/Google-Kick-Start-Round-D-2022)
+7. 💬 Commented on [#131](https://github.com/CCExtractor/beacon/issues/131#issuecomment-1174717161) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
+8. 💬 Commented on [#129](https://github.com/CCExtractor/beacon/issues/129#issuecomment-1174714772) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
+9. 💬 Commented on [#159](https://github.com/CCExtractor/beacon/issues/159#issuecomment-1173405582) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
+10. 💬 Commented on [#162](https://github.com/CCExtractor/beacon/issues/162#issuecomment-1173404778) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
 <!--RECENT_ACTIVITY:end-->
 
 
