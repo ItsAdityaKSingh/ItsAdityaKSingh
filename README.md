@@ -57,16 +57,16 @@
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#34](https://github.com/COPS-IITBHU/csoc-leaderboard/pull/34#discussion_r920868122) in [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
-2. 💬 Commented on [#34](https://github.com/COPS-IITBHU/csoc-leaderboard/pull/34#discussion_r920849416) in [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
-3. 💬 Commented on [#34](https://github.com/COPS-IITBHU/csoc-leaderboard/pull/34#discussion_r920847320) in [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
-4. 💪 Opened PR [#34](https://github.com/COPS-IITBHU/csoc-leaderboard/pull/34) in [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
-5. 🔱 Forked [ItsAdityaKSingh/csoc-leaderboard](https://github.com/ItsAdityaKSingh/csoc-leaderboard) from [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
-6. 🔱 Forked [ItsAdityaKSingh/Google-Kick-Start-Round-D-2022](https://github.com/ItsAdityaKSingh/Google-Kick-Start-Round-D-2022) from [sourav959/Google-Kick-Start-Round-D-2022](https://github.com/sourav959/Google-Kick-Start-Round-D-2022)
-7. 💬 Commented on [#131](https://github.com/CCExtractor/beacon/issues/131#issuecomment-1174717161) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
-8. 💬 Commented on [#129](https://github.com/CCExtractor/beacon/issues/129#issuecomment-1174714772) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
-9. 💬 Commented on [#159](https://github.com/CCExtractor/beacon/issues/159#issuecomment-1173405582) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
-10. 💬 Commented on [#162](https://github.com/CCExtractor/beacon/issues/162#issuecomment-1173404778) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
+1. 💬 Commented on [#69](https://github.com/COPS-CSOC-2022/CSOC22-Week1/pull/69#issuecomment-1184878945) in [COPS-CSOC-2022/CSOC22-Week1](https://github.com/COPS-CSOC-2022/CSOC22-Week1)
+2. ⭐ Starred [openai/triton](https://github.com/openai/triton)
+3. 💬 Commented on [#34](https://github.com/COPS-IITBHU/csoc-leaderboard/pull/34#discussion_r920868122) in [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
+4. 💬 Commented on [#34](https://github.com/COPS-IITBHU/csoc-leaderboard/pull/34#discussion_r920849416) in [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
+5. 💬 Commented on [#34](https://github.com/COPS-IITBHU/csoc-leaderboard/pull/34#discussion_r920847320) in [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
+6. 💪 Opened PR [#34](https://github.com/COPS-IITBHU/csoc-leaderboard/pull/34) in [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
+7. 🔱 Forked [ItsAdityaKSingh/csoc-leaderboard](https://github.com/ItsAdityaKSingh/csoc-leaderboard) from [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
+8. 🔱 Forked [ItsAdityaKSingh/Google-Kick-Start-Round-D-2022](https://github.com/ItsAdityaKSingh/Google-Kick-Start-Round-D-2022) from [sourav959/Google-Kick-Start-Round-D-2022](https://github.com/sourav959/Google-Kick-Start-Round-D-2022)
+9. 💬 Commented on [#131](https://github.com/CCExtractor/beacon/issues/131#issuecomment-1174717161) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
+10. 💬 Commented on [#129](https://github.com/CCExtractor/beacon/issues/129#issuecomment-1174714772) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
 <!--RECENT_ACTIVITY:end-->
 
 
