@@ -57,16 +57,16 @@
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#70](https://github.com/COPS-CSOC-2022/CSOC22-Week1/pull/70#issuecomment-1185835184) in [COPS-CSOC-2022/CSOC22-Week1](https://github.com/COPS-CSOC-2022/CSOC22-Week1)
-2. 🤝 Became collaborator on [COPS-CSOC-2022/CSOC-WEEK-3-Android-Flutter](https://github.com/COPS-CSOC-2022/CSOC-WEEK-3-Android-Flutter)
-3. 💬 Commented on [#69](https://github.com/COPS-CSOC-2022/CSOC22-Week1/pull/69#issuecomment-1184878945) in [COPS-CSOC-2022/CSOC22-Week1](https://github.com/COPS-CSOC-2022/CSOC22-Week1)
-4. ⭐ Starred [openai/triton](https://github.com/openai/triton)
-5. 💬 Commented on [#34](https://github.com/COPS-IITBHU/csoc-leaderboard/pull/34#discussion_r920868122) in [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
-6. 💬 Commented on [#34](https://github.com/COPS-IITBHU/csoc-leaderboard/pull/34#discussion_r920849416) in [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
-7. 💬 Commented on [#34](https://github.com/COPS-IITBHU/csoc-leaderboard/pull/34#discussion_r920847320) in [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
-8. 💪 Opened PR [#34](https://github.com/COPS-IITBHU/csoc-leaderboard/pull/34) in [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
-9. 🔱 Forked [ItsAdityaKSingh/csoc-leaderboard](https://github.com/ItsAdityaKSingh/csoc-leaderboard) from [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
-10. 🔱 Forked [ItsAdityaKSingh/Google-Kick-Start-Round-D-2022](https://github.com/ItsAdityaKSingh/Google-Kick-Start-Round-D-2022) from [sourav959/Google-Kick-Start-Round-D-2022](https://github.com/sourav959/Google-Kick-Start-Round-D-2022)
+1. 💬 Commented on [#70](https://github.com/COPS-CSOC-2022/CSOC22-Week1/pull/70#issuecomment-1189211070) in [COPS-CSOC-2022/CSOC22-Week1](https://github.com/COPS-CSOC-2022/CSOC22-Week1)
+2. 💬 Commented on [#70](https://github.com/COPS-CSOC-2022/CSOC22-Week1/pull/70#discussion_r924666221) in [COPS-CSOC-2022/CSOC22-Week1](https://github.com/COPS-CSOC-2022/CSOC22-Week1)
+3. 💬 Commented on [#70](https://github.com/COPS-CSOC-2022/CSOC22-Week1/pull/70#issuecomment-1189208629) in [COPS-CSOC-2022/CSOC22-Week1](https://github.com/COPS-CSOC-2022/CSOC22-Week1)
+4. 💬 Commented on [#70](https://github.com/COPS-CSOC-2022/CSOC22-Week1/pull/70#issuecomment-1185835184) in [COPS-CSOC-2022/CSOC22-Week1](https://github.com/COPS-CSOC-2022/CSOC22-Week1)
+5. 🤝 Became collaborator on [COPS-CSOC-2022/CSOC-WEEK-3-Android-Flutter](https://github.com/COPS-CSOC-2022/CSOC-WEEK-3-Android-Flutter)
+6. 💬 Commented on [#69](https://github.com/COPS-CSOC-2022/CSOC22-Week1/pull/69#issuecomment-1184878945) in [COPS-CSOC-2022/CSOC22-Week1](https://github.com/COPS-CSOC-2022/CSOC22-Week1)
+7. ⭐ Starred [openai/triton](https://github.com/openai/triton)
+8. 💬 Commented on [#34](https://github.com/COPS-IITBHU/csoc-leaderboard/pull/34#discussion_r920868122) in [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
+9. 💬 Commented on [#34](https://github.com/COPS-IITBHU/csoc-leaderboard/pull/34#discussion_r920849416) in [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
+10. 💬 Commented on [#34](https://github.com/COPS-IITBHU/csoc-leaderboard/pull/34#discussion_r920847320) in [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
 <!--RECENT_ACTIVITY:end-->
 
 
