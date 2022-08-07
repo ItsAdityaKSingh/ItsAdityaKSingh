@@ -57,16 +57,16 @@
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#164](https://github.com/CCExtractor/rutorrent-flutter/issues/164#issuecomment-1190255886) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
-2. 💬 Commented on [#70](https://github.com/COPS-CSOC-2022/CSOC22-Week1/pull/70#issuecomment-1189211070) in [COPS-CSOC-2022/CSOC22-Week1](https://github.com/COPS-CSOC-2022/CSOC22-Week1)
-3. 💬 Commented on [#70](https://github.com/COPS-CSOC-2022/CSOC22-Week1/pull/70#discussion_r924666221) in [COPS-CSOC-2022/CSOC22-Week1](https://github.com/COPS-CSOC-2022/CSOC22-Week1)
-4. 💬 Commented on [#70](https://github.com/COPS-CSOC-2022/CSOC22-Week1/pull/70#issuecomment-1189208629) in [COPS-CSOC-2022/CSOC22-Week1](https://github.com/COPS-CSOC-2022/CSOC22-Week1)
-5. 💬 Commented on [#70](https://github.com/COPS-CSOC-2022/CSOC22-Week1/pull/70#issuecomment-1185835184) in [COPS-CSOC-2022/CSOC22-Week1](https://github.com/COPS-CSOC-2022/CSOC22-Week1)
-6. 🤝 Became collaborator on [COPS-CSOC-2022/CSOC-WEEK-3-Android-Flutter](https://github.com/COPS-CSOC-2022/CSOC-WEEK-3-Android-Flutter)
-7. 💬 Commented on [#69](https://github.com/COPS-CSOC-2022/CSOC22-Week1/pull/69#issuecomment-1184878945) in [COPS-CSOC-2022/CSOC22-Week1](https://github.com/COPS-CSOC-2022/CSOC22-Week1)
-8. ⭐ Starred [openai/triton](https://github.com/openai/triton)
-9. 💬 Commented on [#34](https://github.com/COPS-IITBHU/csoc-leaderboard/pull/34#discussion_r920868122) in [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
-10. 💬 Commented on [#34](https://github.com/COPS-IITBHU/csoc-leaderboard/pull/34#discussion_r920849416) in [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
+1. 💪 Opened PR [#36](https://github.com/COPS-CSOC-2022/csoc22_week3_react/pull/36) in [COPS-CSOC-2022/csoc22_week3_react](https://github.com/COPS-CSOC-2022/csoc22_week3_react)
+2. 💪 Opened PR [#35](https://github.com/COPS-CSOC-2022/csoc22_week3_react/pull/35) in [COPS-CSOC-2022/csoc22_week3_react](https://github.com/COPS-CSOC-2022/csoc22_week3_react)
+3. 💪 Opened PR [#40](https://github.com/COPS-IITBHU/csoc-leaderboard/pull/40) in [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
+4. ❌ Closed PR [#39](https://github.com/COPS-IITBHU/csoc-leaderboard/pull/39) in [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
+5. ❌ Closed PR [#34](https://github.com/COPS-CSOC-2022/csoc22_week3_react/pull/34) in [COPS-CSOC-2022/csoc22_week3_react](https://github.com/COPS-CSOC-2022/csoc22_week3_react)
+6. 🔱 Forked [ItsAdityaKSingh/csoc-week3-vue](https://github.com/ItsAdityaKSingh/csoc-week3-vue) from [COPS-CSOC-2022/csoc-week3-vue](https://github.com/COPS-CSOC-2022/csoc-week3-vue)
+7. 💪 Opened PR [#34](https://github.com/COPS-CSOC-2022/csoc22_week3_react/pull/34) in [COPS-CSOC-2022/csoc22_week3_react](https://github.com/COPS-CSOC-2022/csoc22_week3_react)
+8. 🔱 Forked [ItsAdityaKSingh/csoc22_week3_react](https://github.com/ItsAdityaKSingh/csoc22_week3_react) from [COPS-CSOC-2022/csoc22_week3_react](https://github.com/COPS-CSOC-2022/csoc22_week3_react)
+9. 💪 Opened PR [#39](https://github.com/COPS-IITBHU/csoc-leaderboard/pull/39) in [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
+10. ⭐ Starred [championswimmer/twitter-threads](https://github.com/championswimmer/twitter-threads)
 <!--RECENT_ACTIVITY:end-->
 
 
