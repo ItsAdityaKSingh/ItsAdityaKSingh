@@ -57,16 +57,16 @@
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#36](https://github.com/COPS-CSOC-2022/csoc22_week3_react/pull/36) in [COPS-CSOC-2022/csoc22_week3_react](https://github.com/COPS-CSOC-2022/csoc22_week3_react)
-2. 💪 Opened PR [#35](https://github.com/COPS-CSOC-2022/csoc22_week3_react/pull/35) in [COPS-CSOC-2022/csoc22_week3_react](https://github.com/COPS-CSOC-2022/csoc22_week3_react)
-3. 💪 Opened PR [#40](https://github.com/COPS-IITBHU/csoc-leaderboard/pull/40) in [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
-4. ❌ Closed PR [#39](https://github.com/COPS-IITBHU/csoc-leaderboard/pull/39) in [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
-5. ❌ Closed PR [#34](https://github.com/COPS-CSOC-2022/csoc22_week3_react/pull/34) in [COPS-CSOC-2022/csoc22_week3_react](https://github.com/COPS-CSOC-2022/csoc22_week3_react)
-6. 🔱 Forked [ItsAdityaKSingh/csoc-week3-vue](https://github.com/ItsAdityaKSingh/csoc-week3-vue) from [COPS-CSOC-2022/csoc-week3-vue](https://github.com/COPS-CSOC-2022/csoc-week3-vue)
-7. 💪 Opened PR [#34](https://github.com/COPS-CSOC-2022/csoc22_week3_react/pull/34) in [COPS-CSOC-2022/csoc22_week3_react](https://github.com/COPS-CSOC-2022/csoc22_week3_react)
-8. 🔱 Forked [ItsAdityaKSingh/csoc22_week3_react](https://github.com/ItsAdityaKSingh/csoc22_week3_react) from [COPS-CSOC-2022/csoc22_week3_react](https://github.com/COPS-CSOC-2022/csoc22_week3_react)
-9. 💪 Opened PR [#39](https://github.com/COPS-IITBHU/csoc-leaderboard/pull/39) in [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
-10. ⭐ Starred [championswimmer/twitter-threads](https://github.com/championswimmer/twitter-threads)
+1. 🔱 Forked [ItsAdityaKSingh/ecell-alumni-network](https://github.com/ItsAdityaKSingh/ecell-alumni-network) from [ecelliitbhu/ecell-alumni-network](https://github.com/ecelliitbhu/ecell-alumni-network)
+2. 💪 Opened PR [#36](https://github.com/COPS-CSOC-2022/csoc22_week3_react/pull/36) in [COPS-CSOC-2022/csoc22_week3_react](https://github.com/COPS-CSOC-2022/csoc22_week3_react)
+3. 💪 Opened PR [#35](https://github.com/COPS-CSOC-2022/csoc22_week3_react/pull/35) in [COPS-CSOC-2022/csoc22_week3_react](https://github.com/COPS-CSOC-2022/csoc22_week3_react)
+4. 💪 Opened PR [#40](https://github.com/COPS-IITBHU/csoc-leaderboard/pull/40) in [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
+5. ❌ Closed PR [#39](https://github.com/COPS-IITBHU/csoc-leaderboard/pull/39) in [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
+6. ❌ Closed PR [#34](https://github.com/COPS-CSOC-2022/csoc22_week3_react/pull/34) in [COPS-CSOC-2022/csoc22_week3_react](https://github.com/COPS-CSOC-2022/csoc22_week3_react)
+7. 🔱 Forked [ItsAdityaKSingh/csoc-week3-vue](https://github.com/ItsAdityaKSingh/csoc-week3-vue) from [COPS-CSOC-2022/csoc-week3-vue](https://github.com/COPS-CSOC-2022/csoc-week3-vue)
+8. 💪 Opened PR [#34](https://github.com/COPS-CSOC-2022/csoc22_week3_react/pull/34) in [COPS-CSOC-2022/csoc22_week3_react](https://github.com/COPS-CSOC-2022/csoc22_week3_react)
+9. 🔱 Forked [ItsAdityaKSingh/csoc22_week3_react](https://github.com/ItsAdityaKSingh/csoc22_week3_react) from [COPS-CSOC-2022/csoc22_week3_react](https://github.com/COPS-CSOC-2022/csoc22_week3_react)
+10. 💪 Opened PR [#39](https://github.com/COPS-IITBHU/csoc-leaderboard/pull/39) in [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
 <!--RECENT_ACTIVITY:end-->
 
 
