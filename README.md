@@ -57,16 +57,16 @@
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [CRED-CLUB/neopop-flutter](https://github.com/CRED-CLUB/neopop-flutter)
-2. ⭐ Starred [louisfb01/start-machine-learning](https://github.com/louisfb01/start-machine-learning)
-3. 💪 Opened PR [#169](https://github.com/CCExtractor/beacon/pull/169) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
-4. 🔱 Forked [ItsAdityaKSingh/ecell-alumni-network](https://github.com/ItsAdityaKSingh/ecell-alumni-network) from [ecelliitbhu/ecell-alumni-network](https://github.com/ecelliitbhu/ecell-alumni-network)
-5. 💪 Opened PR [#36](https://github.com/COPS-CSOC-2022/csoc22_week3_react/pull/36) in [COPS-CSOC-2022/csoc22_week3_react](https://github.com/COPS-CSOC-2022/csoc22_week3_react)
-6. 💪 Opened PR [#35](https://github.com/COPS-CSOC-2022/csoc22_week3_react/pull/35) in [COPS-CSOC-2022/csoc22_week3_react](https://github.com/COPS-CSOC-2022/csoc22_week3_react)
-7. 💪 Opened PR [#40](https://github.com/COPS-IITBHU/csoc-leaderboard/pull/40) in [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
-8. ❌ Closed PR [#39](https://github.com/COPS-IITBHU/csoc-leaderboard/pull/39) in [COPS-IITBHU/csoc-leaderboard](https://github.com/COPS-IITBHU/csoc-leaderboard)
-9. ❌ Closed PR [#34](https://github.com/COPS-CSOC-2022/csoc22_week3_react/pull/34) in [COPS-CSOC-2022/csoc22_week3_react](https://github.com/COPS-CSOC-2022/csoc22_week3_react)
-10. 🔱 Forked [ItsAdityaKSingh/csoc-week3-vue](https://github.com/ItsAdityaKSingh/csoc-week3-vue) from [COPS-CSOC-2022/csoc-week3-vue](https://github.com/COPS-CSOC-2022/csoc-week3-vue)
+1. 🎉 Merged PR [#16](https://github.com/ItsAdityaKSingh/portfolio/pull/16) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
+2. 🎉 Merged PR [#15](https://github.com/ItsAdityaKSingh/portfolio/pull/15) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
+3. 🎉 Merged PR [#14](https://github.com/ItsAdityaKSingh/portfolio/pull/14) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
+4. 🎉 Merged PR [#13](https://github.com/ItsAdityaKSingh/portfolio/pull/13) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
+5. ⭐ Starred [CRED-CLUB/neopop-flutter](https://github.com/CRED-CLUB/neopop-flutter)
+6. ⭐ Starred [louisfb01/start-machine-learning](https://github.com/louisfb01/start-machine-learning)
+7. 💪 Opened PR [#169](https://github.com/CCExtractor/beacon/pull/169) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
+8. 🔱 Forked [ItsAdityaKSingh/ecell-alumni-network](https://github.com/ItsAdityaKSingh/ecell-alumni-network) from [ecelliitbhu/ecell-alumni-network](https://github.com/ecelliitbhu/ecell-alumni-network)
+9. 💪 Opened PR [#36](https://github.com/COPS-CSOC-2022/csoc22_week3_react/pull/36) in [COPS-CSOC-2022/csoc22_week3_react](https://github.com/COPS-CSOC-2022/csoc22_week3_react)
+10. 💪 Opened PR [#35](https://github.com/COPS-CSOC-2022/csoc22_week3_react/pull/35) in [COPS-CSOC-2022/csoc22_week3_react](https://github.com/COPS-CSOC-2022/csoc22_week3_react)
 <!--RECENT_ACTIVITY:end-->
 
 
