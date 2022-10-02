@@ -57,16 +57,16 @@
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#16](https://github.com/ItsAdityaKSingh/portfolio/pull/16) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
-2. 🎉 Merged PR [#15](https://github.com/ItsAdityaKSingh/portfolio/pull/15) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
-3. 🎉 Merged PR [#14](https://github.com/ItsAdityaKSingh/portfolio/pull/14) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
-4. 🎉 Merged PR [#13](https://github.com/ItsAdityaKSingh/portfolio/pull/13) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
-5. ⭐ Starred [CRED-CLUB/neopop-flutter](https://github.com/CRED-CLUB/neopop-flutter)
-6. ⭐ Starred [louisfb01/start-machine-learning](https://github.com/louisfb01/start-machine-learning)
-7. 💪 Opened PR [#169](https://github.com/CCExtractor/beacon/pull/169) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
-8. 🔱 Forked [ItsAdityaKSingh/ecell-alumni-network](https://github.com/ItsAdityaKSingh/ecell-alumni-network) from [ecelliitbhu/ecell-alumni-network](https://github.com/ecelliitbhu/ecell-alumni-network)
-9. 💪 Opened PR [#36](https://github.com/COPS-CSOC-2022/csoc22_week3_react/pull/36) in [COPS-CSOC-2022/csoc22_week3_react](https://github.com/COPS-CSOC-2022/csoc22_week3_react)
-10. 💪 Opened PR [#35](https://github.com/COPS-CSOC-2022/csoc22_week3_react/pull/35) in [COPS-CSOC-2022/csoc22_week3_react](https://github.com/COPS-CSOC-2022/csoc22_week3_react)
+1. 🎉 Merged PR [#20](https://github.com/ItsAdityaKSingh/portfolio/pull/20) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
+2. 💪 Opened PR [#20](https://github.com/ItsAdityaKSingh/portfolio/pull/20) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
+3. 🎉 Merged PR [#19](https://github.com/ItsAdityaKSingh/portfolio/pull/19) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
+4. 💪 Opened PR [#19](https://github.com/ItsAdityaKSingh/portfolio/pull/19) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
+5. 🎉 Merged PR [#18](https://github.com/ItsAdityaKSingh/portfolio/pull/18) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
+6. 💪 Opened PR [#18](https://github.com/ItsAdityaKSingh/portfolio/pull/18) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
+7. 🎉 Merged PR [#17](https://github.com/ItsAdityaKSingh/portfolio/pull/17) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
+8. 💪 Opened PR [#17](https://github.com/ItsAdityaKSingh/portfolio/pull/17) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
+9. 🎉 Merged PR [#16](https://github.com/ItsAdityaKSingh/portfolio/pull/16) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
+10. 🎉 Merged PR [#15](https://github.com/ItsAdityaKSingh/portfolio/pull/15) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
 <!--RECENT_ACTIVITY:end-->
 
 
