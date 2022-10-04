@@ -57,16 +57,16 @@
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#22](https://github.com/ItsAdityaKSingh/portfolio/pull/22#discussion_r986918751) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
-2. 🎉 Merged PR [#21](https://github.com/ItsAdityaKSingh/portfolio/pull/21) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
-3. 💬 Commented on [#21](https://github.com/ItsAdityaKSingh/portfolio/pull/21#issuecomment-1267065982) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
-4. 🎉 Merged PR [#20](https://github.com/ItsAdityaKSingh/portfolio/pull/20) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
-5. 💪 Opened PR [#20](https://github.com/ItsAdityaKSingh/portfolio/pull/20) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
-6. 🎉 Merged PR [#19](https://github.com/ItsAdityaKSingh/portfolio/pull/19) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
-7. 💪 Opened PR [#19](https://github.com/ItsAdityaKSingh/portfolio/pull/19) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
-8. 🎉 Merged PR [#18](https://github.com/ItsAdityaKSingh/portfolio/pull/18) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
-9. 💪 Opened PR [#18](https://github.com/ItsAdityaKSingh/portfolio/pull/18) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
-10. 🎉 Merged PR [#17](https://github.com/ItsAdityaKSingh/portfolio/pull/17) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
+1. 🎉 Merged PR [#22](https://github.com/ItsAdityaKSingh/portfolio/pull/22) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
+2. 💬 Commented on [#22](https://github.com/ItsAdityaKSingh/portfolio/pull/22#discussion_r986918751) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
+3. 🎉 Merged PR [#21](https://github.com/ItsAdityaKSingh/portfolio/pull/21) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
+4. 💬 Commented on [#21](https://github.com/ItsAdityaKSingh/portfolio/pull/21#issuecomment-1267065982) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
+5. 🎉 Merged PR [#20](https://github.com/ItsAdityaKSingh/portfolio/pull/20) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
+6. 💪 Opened PR [#20](https://github.com/ItsAdityaKSingh/portfolio/pull/20) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
+7. 🎉 Merged PR [#19](https://github.com/ItsAdityaKSingh/portfolio/pull/19) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
+8. 💪 Opened PR [#19](https://github.com/ItsAdityaKSingh/portfolio/pull/19) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
+9. 🎉 Merged PR [#18](https://github.com/ItsAdityaKSingh/portfolio/pull/18) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
+10. 💪 Opened PR [#18](https://github.com/ItsAdityaKSingh/portfolio/pull/18) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
 <!--RECENT_ACTIVITY:end-->
 
 
