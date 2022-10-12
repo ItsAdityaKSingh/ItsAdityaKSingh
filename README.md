@@ -57,16 +57,16 @@
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#22](https://github.com/ItsAdityaKSingh/portfolio/pull/22) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
-2. 💬 Commented on [#22](https://github.com/ItsAdityaKSingh/portfolio/pull/22#discussion_r986918751) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
-3. 🎉 Merged PR [#21](https://github.com/ItsAdityaKSingh/portfolio/pull/21) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
-4. 💬 Commented on [#21](https://github.com/ItsAdityaKSingh/portfolio/pull/21#issuecomment-1267065982) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
-5. 🎉 Merged PR [#20](https://github.com/ItsAdityaKSingh/portfolio/pull/20) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
-6. 💪 Opened PR [#20](https://github.com/ItsAdityaKSingh/portfolio/pull/20) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
-7. 🎉 Merged PR [#19](https://github.com/ItsAdityaKSingh/portfolio/pull/19) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
-8. 💪 Opened PR [#19](https://github.com/ItsAdityaKSingh/portfolio/pull/19) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
-9. 🎉 Merged PR [#18](https://github.com/ItsAdityaKSingh/portfolio/pull/18) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
-10. 💪 Opened PR [#18](https://github.com/ItsAdityaKSingh/portfolio/pull/18) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
+1. 💬 Commented on [#4356](https://github.com/appwrite/appwrite/issues/4356#issuecomment-1276600891) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+2. 💬 Commented on [#4360](https://github.com/appwrite/appwrite/issues/4360#issuecomment-1276599160) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+3. 💬 Commented on [#4365](https://github.com/appwrite/appwrite/issues/4365#issuecomment-1276598390) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+4. 💪 Opened PR [#8](https://github.com/utopia-php/registry/pull/8) in [utopia-php/registry](https://github.com/utopia-php/registry)
+5. 🔱 Forked [ItsAdityaKSingh/registry](https://github.com/ItsAdityaKSingh/registry) from [utopia-php/registry](https://github.com/utopia-php/registry)
+6. 🎉 Merged PR [#1](https://github.com/ItsAdityaKSingh/registry/pull/1) in [ItsAdityaKSingh/registry](https://github.com/ItsAdityaKSingh/registry)
+7. 💪 Opened PR [#1](https://github.com/ItsAdityaKSingh/registry/pull/1) in [ItsAdityaKSingh/registry](https://github.com/ItsAdityaKSingh/registry)
+8. 🔱 Forked [ItsAdityaKSingh/registry](https://github.com/ItsAdityaKSingh/registry) from [utopia-php/registry](https://github.com/utopia-php/registry)
+9. 🎉 Merged PR [#22](https://github.com/ItsAdityaKSingh/portfolio/pull/22) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
+10. 💬 Commented on [#22](https://github.com/ItsAdityaKSingh/portfolio/pull/22#discussion_r986918751) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
 <!--RECENT_ACTIVITY:end-->
 
 
