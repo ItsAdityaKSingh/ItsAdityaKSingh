@@ -57,16 +57,16 @@
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#4364](https://github.com/appwrite/appwrite/issues/4364#issuecomment-1277967789) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-2. 💬 Commented on [#4387](https://github.com/appwrite/appwrite/issues/4387#issuecomment-1277966293) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-3. 💬 Commented on [#4365](https://github.com/appwrite/appwrite/issues/4365#issuecomment-1277783086) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-4. 💪 Opened PR [#9](https://github.com/utopia-php/registry/pull/9) in [utopia-php/registry](https://github.com/utopia-php/registry)
-5. 💬 Commented on [#4356](https://github.com/appwrite/appwrite/issues/4356#issuecomment-1276600891) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-6. 💬 Commented on [#4360](https://github.com/appwrite/appwrite/issues/4360#issuecomment-1276599160) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-7. 💬 Commented on [#4365](https://github.com/appwrite/appwrite/issues/4365#issuecomment-1276598390) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-8. 💪 Opened PR [#8](https://github.com/utopia-php/registry/pull/8) in [utopia-php/registry](https://github.com/utopia-php/registry)
-9. 🔱 Forked [ItsAdityaKSingh/registry](https://github.com/ItsAdityaKSingh/registry) from [utopia-php/registry](https://github.com/utopia-php/registry)
-10. 🎉 Merged PR [#1](https://github.com/ItsAdityaKSingh/registry/pull/1) in [ItsAdityaKSingh/registry](https://github.com/ItsAdityaKSingh/registry)
+1. 💬 Commented on [#4408](https://github.com/appwrite/appwrite/issues/4408#issuecomment-1278644463) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+2. 💬 Commented on [#4364](https://github.com/appwrite/appwrite/issues/4364#issuecomment-1278526890) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+3. 💬 Commented on [#4387](https://github.com/appwrite/appwrite/issues/4387#issuecomment-1278499457) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+4. 💬 Commented on [#4364](https://github.com/appwrite/appwrite/issues/4364#issuecomment-1277967789) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+5. 💬 Commented on [#4387](https://github.com/appwrite/appwrite/issues/4387#issuecomment-1277966293) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+6. 💬 Commented on [#4365](https://github.com/appwrite/appwrite/issues/4365#issuecomment-1277783086) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+7. 💪 Opened PR [#9](https://github.com/utopia-php/registry/pull/9) in [utopia-php/registry](https://github.com/utopia-php/registry)
+8. 💬 Commented on [#4356](https://github.com/appwrite/appwrite/issues/4356#issuecomment-1276600891) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+9. 💬 Commented on [#4360](https://github.com/appwrite/appwrite/issues/4360#issuecomment-1276599160) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+10. 💬 Commented on [#4365](https://github.com/appwrite/appwrite/issues/4365#issuecomment-1276598390) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
 <!--RECENT_ACTIVITY:end-->
 
 
