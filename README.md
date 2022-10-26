@@ -57,16 +57,16 @@
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#28](https://github.com/ItsAdityaKSingh/portfolio/pull/28) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
-2. 🎉 Merged PR [#26](https://github.com/ItsAdityaKSingh/portfolio/pull/26) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
-3. 🎉 Merged PR [#25](https://github.com/ItsAdityaKSingh/portfolio/pull/25) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
-4. 🔱 Forked [ItsAdityaKSingh/cli](https://github.com/ItsAdityaKSingh/cli) from [utopia-php/cli](https://github.com/utopia-php/cli)
-5. 💬 Commented on [#4387](https://github.com/appwrite/appwrite/issues/4387#issuecomment-1291454166) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-6. 💬 Commented on [#4466](https://github.com/appwrite/appwrite/issues/4466#issuecomment-1288043377) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-7. 💪 Opened PR [#172](https://github.com/CCExtractor/beacon/pull/172) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
-8. 💬 Commented on [#4466](https://github.com/appwrite/appwrite/issues/4466#issuecomment-1287800191) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-9. ❗️ Opened issue [#171](https://github.com/CCExtractor/beacon/issues/171) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
-10. 💬 Commented on [#4387](https://github.com/appwrite/appwrite/issues/4387#issuecomment-1287654821) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+1. 🎉 Merged PR [#358](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app/pull/358) in [IIT-BHU-InstiApp/IIT-BHU-app](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app)
+2. 💬 Commented on [#358](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app/pull/358#discussion_r1006054858) in [IIT-BHU-InstiApp/IIT-BHU-app](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app)
+3. 🎉 Merged PR [#28](https://github.com/ItsAdityaKSingh/portfolio/pull/28) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
+4. 🎉 Merged PR [#26](https://github.com/ItsAdityaKSingh/portfolio/pull/26) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
+5. 🎉 Merged PR [#25](https://github.com/ItsAdityaKSingh/portfolio/pull/25) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
+6. 🔱 Forked [ItsAdityaKSingh/cli](https://github.com/ItsAdityaKSingh/cli) from [utopia-php/cli](https://github.com/utopia-php/cli)
+7. 💬 Commented on [#4387](https://github.com/appwrite/appwrite/issues/4387#issuecomment-1291454166) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+8. 💬 Commented on [#4466](https://github.com/appwrite/appwrite/issues/4466#issuecomment-1288043377) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+9. 💪 Opened PR [#172](https://github.com/CCExtractor/beacon/pull/172) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
+10. 💬 Commented on [#4466](https://github.com/appwrite/appwrite/issues/4466#issuecomment-1287800191) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
 <!--RECENT_ACTIVITY:end-->
 
 
