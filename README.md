@@ -57,16 +57,16 @@
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#4387](https://github.com/appwrite/appwrite/issues/4387#issuecomment-1293715021) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-2. 💬 Commented on [#21](https://github.com/utopia-php/cli/pull/21#issuecomment-1293713465) in [utopia-php/cli](https://github.com/utopia-php/cli)
-3. 💪 Opened PR [#21](https://github.com/utopia-php/cli/pull/21) in [utopia-php/cli](https://github.com/utopia-php/cli)
-4. 🔱 Forked [ItsAdityaKSingh/ab](https://github.com/ItsAdityaKSingh/ab) from [utopia-php/ab](https://github.com/utopia-php/ab)
-5. 💬 Commented on [#91](https://github.com/CCExtractor/beacon/issues/91#issuecomment-1293327032) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
-6. 🔱 Forked [ItsAdityaKSingh/platform](https://github.com/ItsAdityaKSingh/platform) from [utopia-php/platform](https://github.com/utopia-php/platform)
-7. 💬 Commented on [#4451](https://github.com/appwrite/appwrite/issues/4451#issuecomment-1293087192) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-8. 🎉 Merged PR [#358](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app/pull/358) in [IIT-BHU-InstiApp/IIT-BHU-app](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app)
-9. 💬 Commented on [#358](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app/pull/358#discussion_r1006054858) in [IIT-BHU-InstiApp/IIT-BHU-app](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app)
-10. 🎉 Merged PR [#28](https://github.com/ItsAdityaKSingh/portfolio/pull/28) in [ItsAdityaKSingh/portfolio](https://github.com/ItsAdityaKSingh/portfolio)
+1. 💬 Commented on [#4385](https://github.com/appwrite/appwrite/issues/4385#issuecomment-1294441146) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+2. 💬 Commented on [#4387](https://github.com/appwrite/appwrite/issues/4387#issuecomment-1293715021) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+3. 💬 Commented on [#21](https://github.com/utopia-php/cli/pull/21#issuecomment-1293713465) in [utopia-php/cli](https://github.com/utopia-php/cli)
+4. 💪 Opened PR [#21](https://github.com/utopia-php/cli/pull/21) in [utopia-php/cli](https://github.com/utopia-php/cli)
+5. 🔱 Forked [ItsAdityaKSingh/ab](https://github.com/ItsAdityaKSingh/ab) from [utopia-php/ab](https://github.com/utopia-php/ab)
+6. 💬 Commented on [#91](https://github.com/CCExtractor/beacon/issues/91#issuecomment-1293327032) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
+7. 🔱 Forked [ItsAdityaKSingh/platform](https://github.com/ItsAdityaKSingh/platform) from [utopia-php/platform](https://github.com/utopia-php/platform)
+8. 💬 Commented on [#4451](https://github.com/appwrite/appwrite/issues/4451#issuecomment-1293087192) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+9. 🎉 Merged PR [#358](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app/pull/358) in [IIT-BHU-InstiApp/IIT-BHU-app](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app)
+10. 💬 Commented on [#358](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app/pull/358#discussion_r1006054858) in [IIT-BHU-InstiApp/IIT-BHU-app](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app)
 <!--RECENT_ACTIVITY:end-->
 
 
