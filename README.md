@@ -30,6 +30,9 @@
 [![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7?si=3cl_3ZkyRLWj-AUGzT867g)
 
 ### 📊 My Github Stats
+
+Total Views on Profile:<br><br>
+![Visitor Count](https://profile-counter.glitch.me/itsadityaksingh/count.svg)
 <!-- [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=ItsAdityaKSingh&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/ItsAdityaKSingh)
 
 <p align="center">
@@ -41,7 +44,7 @@
 </p> -->
 
 <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+    <a href="https://github.com/ItsAdityaKSingh/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aditya Kumar Singh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsAdityaKSingh&theme=highcontrast&hide_border=true&background=0D1117"/>
     </a>
 </p>
