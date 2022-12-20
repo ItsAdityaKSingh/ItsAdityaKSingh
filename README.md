@@ -60,16 +60,16 @@ Total Views on Profile:<br><br>
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#175](https://github.com/CCExtractor/beacon/pull/175#issuecomment-1347812251) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
-2. 💬 Commented on [#142](https://github.com/CCExtractor/beacon/pull/142#issuecomment-1343275985) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
-3. ❌ Closed PR [#111](https://github.com/CCExtractor/beacon/pull/111) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
-4. 💬 Commented on [#111](https://github.com/CCExtractor/beacon/pull/111#issuecomment-1343266053) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
-5. 💬 Commented on [#175](https://github.com/CCExtractor/beacon/pull/175#issuecomment-1343261049) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
-6. 💬 Commented on [#175](https://github.com/CCExtractor/beacon/pull/175#discussion_r1043746672) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
-7. ❌ Closed PR [#144](https://github.com/CCExtractor/beacon/pull/144) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
-8. 💬 Commented on [#144](https://github.com/CCExtractor/beacon/pull/144#issuecomment-1343256984) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
-9. ✔️ Closed issue [#174](https://github.com/CCExtractor/beacon/issues/174) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
-10. 💬 Commented on [#174](https://github.com/CCExtractor/beacon/issues/174#issuecomment-1343222575) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
+1. 🎉 Merged PR [#364](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app/pull/364) in [IIT-BHU-InstiApp/IIT-BHU-app](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app)
+2. 💬 Commented on [#175](https://github.com/CCExtractor/beacon/pull/175#issuecomment-1347812251) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
+3. 💬 Commented on [#142](https://github.com/CCExtractor/beacon/pull/142#issuecomment-1343275985) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
+4. ❌ Closed PR [#111](https://github.com/CCExtractor/beacon/pull/111) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
+5. 💬 Commented on [#111](https://github.com/CCExtractor/beacon/pull/111#issuecomment-1343266053) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
+6. 💬 Commented on [#175](https://github.com/CCExtractor/beacon/pull/175#issuecomment-1343261049) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
+7. 💬 Commented on [#175](https://github.com/CCExtractor/beacon/pull/175#discussion_r1043746672) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
+8. ❌ Closed PR [#144](https://github.com/CCExtractor/beacon/pull/144) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
+9. 💬 Commented on [#144](https://github.com/CCExtractor/beacon/pull/144#issuecomment-1343256984) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
+10. ✔️ Closed issue [#174](https://github.com/CCExtractor/beacon/issues/174) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
 <!--RECENT_ACTIVITY:end-->
 
 [![@itsadityaksingh's Holopin board](https://holopin.me/itsadityaksingh)](https://holopin.io/@itsadityaksingh)
