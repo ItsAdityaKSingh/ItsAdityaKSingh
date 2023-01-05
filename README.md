@@ -60,16 +60,16 @@ Total Views on Profile:<br><br>
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#175](https://github.com/CCExtractor/beacon/pull/175#issuecomment-1371219793) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)<br>
-2. ⭐ Starred [hamaluik/timecop](https://github.com/hamaluik/timecop)<br>
-3. ⭐ Starred [ossu/computer-science](https://github.com/ossu/computer-science)<br>
-4. 🎉 Merged PR [#364](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app/pull/364) in [IIT-BHU-InstiApp/IIT-BHU-app](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app)<br>
-5. 💬 Commented on [#175](https://github.com/CCExtractor/beacon/pull/175#issuecomment-1347812251) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)<br>
-6. 💬 Commented on [#142](https://github.com/CCExtractor/beacon/pull/142#issuecomment-1343275985) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)<br>
-7. ❌ Closed PR [#111](https://github.com/CCExtractor/beacon/pull/111) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)<br>
-8. 💬 Commented on [#111](https://github.com/CCExtractor/beacon/pull/111#issuecomment-1343266053) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)<br>
-9. 💬 Commented on [#175](https://github.com/CCExtractor/beacon/pull/175#issuecomment-1343261049) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)<br>
-10. 💬 Commented on [#175](https://github.com/CCExtractor/beacon/pull/175#discussion_r1043746672) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)<br>
+1. 🔱 Forked [ItsAdityaKSingh/spec](https://github.com/ItsAdityaKSingh/spec) from [score-spec/spec](https://github.com/score-spec/spec)<br>
+2. ⭐ Starred [score-spec/spec](https://github.com/score-spec/spec)<br>
+3. 💬 Commented on [#175](https://github.com/CCExtractor/beacon/pull/175#issuecomment-1371219793) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)<br>
+4. ⭐ Starred [hamaluik/timecop](https://github.com/hamaluik/timecop)<br>
+5. ⭐ Starred [ossu/computer-science](https://github.com/ossu/computer-science)<br>
+6. 🎉 Merged PR [#364](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app/pull/364) in [IIT-BHU-InstiApp/IIT-BHU-app](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app)<br>
+7. 💬 Commented on [#175](https://github.com/CCExtractor/beacon/pull/175#issuecomment-1347812251) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)<br>
+8. 💬 Commented on [#142](https://github.com/CCExtractor/beacon/pull/142#issuecomment-1343275985) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)<br>
+9. ❌ Closed PR [#111](https://github.com/CCExtractor/beacon/pull/111) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)<br>
+10. 💬 Commented on [#111](https://github.com/CCExtractor/beacon/pull/111#issuecomment-1343266053) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)<br>
 <!--RECENT_ACTIVITY:end-->
 
 [![@itsadityaksingh's Holopin board](https://holopin.me/itsadityaksingh)](https://holopin.io/@itsadityaksingh)
