@@ -60,16 +60,16 @@ Total Views on Profile:<br><br>
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#365](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app/pull/365#issuecomment-1380426691) in [IIT-BHU-InstiApp/IIT-BHU-app](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app)<br>
-2. ⭐ Starred [RamjiB/Python-for-Computer-Vision-with-OpenCV-and-Deep-Learning](https://github.com/RamjiB/Python-for-Computer-Vision-with-OpenCV-and-Deep-Learning)<br>
-3. ⭐ Starred [Mikerah/awesome-algorithmic-game-theory](https://github.com/Mikerah/awesome-algorithmic-game-theory)<br>
-4. 🔱 Forked [ItsAdityaKSingh/spec](https://github.com/ItsAdityaKSingh/spec) from [score-spec/spec](https://github.com/score-spec/spec)<br>
-5. ⭐ Starred [score-spec/spec](https://github.com/score-spec/spec)<br>
-6. 💬 Commented on [#175](https://github.com/CCExtractor/beacon/pull/175#issuecomment-1371219793) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)<br>
-7. ⭐ Starred [hamaluik/timecop](https://github.com/hamaluik/timecop)<br>
-8. ⭐ Starred [ossu/computer-science](https://github.com/ossu/computer-science)<br>
-9. 🎉 Merged PR [#364](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app/pull/364) in [IIT-BHU-InstiApp/IIT-BHU-app](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app)<br>
-10. 💬 Commented on [#175](https://github.com/CCExtractor/beacon/pull/175#issuecomment-1347812251) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)<br>
+1. ⭐ Starred [score-spec/spec](https://github.com/score-spec/spec)<br>
+2. 💬 Commented on [#365](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app/pull/365#issuecomment-1380426691) in [IIT-BHU-InstiApp/IIT-BHU-app](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app)<br>
+3. ⭐ Starred [RamjiB/Python-for-Computer-Vision-with-OpenCV-and-Deep-Learning](https://github.com/RamjiB/Python-for-Computer-Vision-with-OpenCV-and-Deep-Learning)<br>
+4. ⭐ Starred [Mikerah/awesome-algorithmic-game-theory](https://github.com/Mikerah/awesome-algorithmic-game-theory)<br>
+5. 🔱 Forked [ItsAdityaKSingh/spec](https://github.com/ItsAdityaKSingh/spec) from [score-spec/spec](https://github.com/score-spec/spec)<br>
+6. ⭐ Starred [score-spec/spec](https://github.com/score-spec/spec)<br>
+7. 💬 Commented on [#175](https://github.com/CCExtractor/beacon/pull/175#issuecomment-1371219793) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)<br>
+8. ⭐ Starred [hamaluik/timecop](https://github.com/hamaluik/timecop)<br>
+9. ⭐ Starred [ossu/computer-science](https://github.com/ossu/computer-science)<br>
+10. 🎉 Merged PR [#364](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app/pull/364) in [IIT-BHU-InstiApp/IIT-BHU-app](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app)<br>
 <!--RECENT_ACTIVITY:end-->
 
 [![@itsadityaksingh's Holopin board](https://holopin.me/itsadityaksingh)](https://holopin.io/@itsadityaksingh)
