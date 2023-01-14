@@ -60,16 +60,16 @@
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [score-spec/spec](https://github.com/score-spec/spec)<br>
-2. 💬 Commented on [#365](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app/pull/365#issuecomment-1380426691) in [IIT-BHU-InstiApp/IIT-BHU-app](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app)<br>
-3. ⭐ Starred [RamjiB/Python-for-Computer-Vision-with-OpenCV-and-Deep-Learning](https://github.com/RamjiB/Python-for-Computer-Vision-with-OpenCV-and-Deep-Learning)<br>
-4. ⭐ Starred [Mikerah/awesome-algorithmic-game-theory](https://github.com/Mikerah/awesome-algorithmic-game-theory)<br>
-5. 🔱 Forked [ItsAdityaKSingh/spec](https://github.com/ItsAdityaKSingh/spec) from [score-spec/spec](https://github.com/score-spec/spec)<br>
+1. 🎉 Merged PR [#365](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app/pull/365) in [IIT-BHU-InstiApp/IIT-BHU-app](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app)<br>
+2. 💬 Commented on [#365](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app/pull/365#issuecomment-1382680692) in [IIT-BHU-InstiApp/IIT-BHU-app](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app)<br>
+3. 💬 Commented on [#365](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app/pull/365#discussion_r1070224352) in [IIT-BHU-InstiApp/IIT-BHU-app](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app)<br>
+4. ✔️ Closed issue [#359](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app/issues/359) in [IIT-BHU-InstiApp/IIT-BHU-app](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app)<br>
+5. 💬 Commented on [#359](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app/issues/359#issuecomment-1382669698) in [IIT-BHU-InstiApp/IIT-BHU-app](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app)<br>
 6. ⭐ Starred [score-spec/spec](https://github.com/score-spec/spec)<br>
-7. 💬 Commented on [#175](https://github.com/CCExtractor/beacon/pull/175#issuecomment-1371219793) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)<br>
-8. ⭐ Starred [hamaluik/timecop](https://github.com/hamaluik/timecop)<br>
-9. ⭐ Starred [ossu/computer-science](https://github.com/ossu/computer-science)<br>
-10. 🎉 Merged PR [#364](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app/pull/364) in [IIT-BHU-InstiApp/IIT-BHU-app](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app)<br>
+7. 💬 Commented on [#365](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app/pull/365#issuecomment-1380426691) in [IIT-BHU-InstiApp/IIT-BHU-app](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app)<br>
+8. ⭐ Starred [RamjiB/Python-for-Computer-Vision-with-OpenCV-and-Deep-Learning](https://github.com/RamjiB/Python-for-Computer-Vision-with-OpenCV-and-Deep-Learning)<br>
+9. ⭐ Starred [Mikerah/awesome-algorithmic-game-theory](https://github.com/Mikerah/awesome-algorithmic-game-theory)<br>
+10. 🔱 Forked [ItsAdityaKSingh/spec](https://github.com/ItsAdityaKSingh/spec) from [score-spec/spec](https://github.com/score-spec/spec)<br>
 <!--RECENT_ACTIVITY:end-->
 
 [![@itsadityaksingh's Holopin board](https://holopin.me/itsadityaksingh)](https://holopin.io/@itsadityaksingh)
