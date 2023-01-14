@@ -31,8 +31,8 @@
 
 ### 📊 My Github Stats
 
-Total Views on Profile:<br><br>
-![Visitor Count](https://profile-counter.glitch.me/itsadityaksingh/count.svg)
+<!-- Total Views on Profile:<br><br>
+![Visitor Count](https://profile-counter.glitch.me/itsadityaksingh/count.svg) -->
 <!-- [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=ItsAdityaKSingh&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/ItsAdityaKSingh)
 
 <p align="center">
