@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **[Beacon](https://github.com/CCExtractor/beacon) and [Insti App](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app)**
 
-- 🌱 I’m currently learning **NodeJS & Solidity**
+- 🌱 I’m currently learning **Solidity**
 
 - 👨‍💻 All of my repositories are available at **[My Repositories](https://github.com/ItsAdityaKSingh?tab=repositories)**
 
