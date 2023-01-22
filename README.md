@@ -60,16 +60,16 @@
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#367](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app/issues/367) in [IIT-BHU-InstiApp/IIT-BHU-app](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app)<br>
-2. 🎉 Merged PR [#366](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app/pull/366) in [IIT-BHU-InstiApp/IIT-BHU-app](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app)<br>
-3. 💬 Commented on [#366](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app/pull/366#issuecomment-1382731746) in [IIT-BHU-InstiApp/IIT-BHU-app](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app)<br>
-4. ⭐ Starred [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses)<br>
-5. 🎉 Merged PR [#365](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app/pull/365) in [IIT-BHU-InstiApp/IIT-BHU-app](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app)<br>
-6. 💬 Commented on [#365](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app/pull/365#issuecomment-1382680692) in [IIT-BHU-InstiApp/IIT-BHU-app](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app)<br>
-7. 💬 Commented on [#365](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app/pull/365#discussion_r1070224352) in [IIT-BHU-InstiApp/IIT-BHU-app](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app)<br>
-8. ✔️ Closed issue [#359](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app/issues/359) in [IIT-BHU-InstiApp/IIT-BHU-app](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app)<br>
-9. 💬 Commented on [#359](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app/issues/359#issuecomment-1382669698) in [IIT-BHU-InstiApp/IIT-BHU-app](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app)<br>
-10. ⭐ Starred [score-spec/spec](https://github.com/score-spec/spec)<br>
+1. 💬 Commented on [#175](https://github.com/CCExtractor/beacon/pull/175#issuecomment-1399417271) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)<br>
+2. 💬 Commented on [#175](https://github.com/CCExtractor/beacon/pull/175#issuecomment-1399417152) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)<br>
+3. ❗️ Opened issue [#367](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app/issues/367) in [IIT-BHU-InstiApp/IIT-BHU-app](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app)<br>
+4. 🎉 Merged PR [#366](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app/pull/366) in [IIT-BHU-InstiApp/IIT-BHU-app](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app)<br>
+5. 💬 Commented on [#366](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app/pull/366#issuecomment-1382731746) in [IIT-BHU-InstiApp/IIT-BHU-app](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app)<br>
+6. ⭐ Starred [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses)<br>
+7. 🎉 Merged PR [#365](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app/pull/365) in [IIT-BHU-InstiApp/IIT-BHU-app](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app)<br>
+8. 💬 Commented on [#365](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app/pull/365#issuecomment-1382680692) in [IIT-BHU-InstiApp/IIT-BHU-app](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app)<br>
+9. 💬 Commented on [#365](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app/pull/365#discussion_r1070224352) in [IIT-BHU-InstiApp/IIT-BHU-app](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app)<br>
+10. ✔️ Closed issue [#359](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app/issues/359) in [IIT-BHU-InstiApp/IIT-BHU-app](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app)<br>
 <!--RECENT_ACTIVITY:end-->
 
 [![@itsadityaksingh's Holopin board](https://holopin.me/itsadityaksingh)](https://holopin.io/@itsadityaksingh)
