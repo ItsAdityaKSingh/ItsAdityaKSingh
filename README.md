@@ -60,16 +60,16 @@
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#108](https://github.com/CCExtractor/beacon-backend/issues/108#issuecomment-1400528262) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)<br>
-2. ⭐ Starred [tinylibs/tinyspy](https://github.com/tinylibs/tinyspy)<br>
-3. ⭐ Starred [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)<br>
+1. 🎉 Merged PR [#68](https://github.com/Sochem/Sochem-App/pull/68) in [Sochem/Sochem-App](https://github.com/Sochem/Sochem-App)<br>
+2. 💪 Opened PR [#68](https://github.com/Sochem/Sochem-App/pull/68) in [Sochem/Sochem-App](https://github.com/Sochem/Sochem-App)<br>
+3. 💬 Commented on [#108](https://github.com/CCExtractor/beacon-backend/issues/108#issuecomment-1400528262) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)<br>
 4. ⭐ Starred [tinylibs/tinyspy](https://github.com/tinylibs/tinyspy)<br>
-5. ⭐ Starred [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic)<br>
-6. 💬 Commented on [#175](https://github.com/CCExtractor/beacon/pull/175#issuecomment-1399417271) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)<br>
-7. 💬 Commented on [#175](https://github.com/CCExtractor/beacon/pull/175#issuecomment-1399417152) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)<br>
-8. ❗️ Opened issue [#367](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app/issues/367) in [IIT-BHU-InstiApp/IIT-BHU-app](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app)<br>
-9. 🎉 Merged PR [#366](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app/pull/366) in [IIT-BHU-InstiApp/IIT-BHU-app](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app)<br>
-10. 💬 Commented on [#366](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app/pull/366#issuecomment-1382731746) in [IIT-BHU-InstiApp/IIT-BHU-app](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app)<br>
+5. ⭐ Starred [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)<br>
+6. ⭐ Starred [tinylibs/tinyspy](https://github.com/tinylibs/tinyspy)<br>
+7. ⭐ Starred [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic)<br>
+8. 💬 Commented on [#175](https://github.com/CCExtractor/beacon/pull/175#issuecomment-1399417271) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)<br>
+9. 💬 Commented on [#175](https://github.com/CCExtractor/beacon/pull/175#issuecomment-1399417152) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)<br>
+10. ❗️ Opened issue [#367](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app/issues/367) in [IIT-BHU-InstiApp/IIT-BHU-app](https://github.com/IIT-BHU-InstiApp/IIT-BHU-app)<br>
 <!--RECENT_ACTIVITY:end-->
 
 [![@itsadityaksingh's Holopin board](https://holopin.me/itsadityaksingh)](https://holopin.io/@itsadityaksingh)
