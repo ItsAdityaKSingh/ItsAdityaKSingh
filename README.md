@@ -60,16 +60,16 @@
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [literalEval/logger_chan](https://github.com/literalEval/logger_chan)<br>
-2. ⭐ Starred [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)<br>
-3. 🎉 Merged PR [#68](https://github.com/Sochem/Sochem-App/pull/68) in [Sochem/Sochem-App](https://github.com/Sochem/Sochem-App)<br>
-4. 💪 Opened PR [#68](https://github.com/Sochem/Sochem-App/pull/68) in [Sochem/Sochem-App](https://github.com/Sochem/Sochem-App)<br>
-5. 💬 Commented on [#108](https://github.com/CCExtractor/beacon-backend/issues/108#issuecomment-1400528262) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)<br>
-6. ⭐ Starred [tinylibs/tinyspy](https://github.com/tinylibs/tinyspy)<br>
-7. ⭐ Starred [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)<br>
-8. ⭐ Starred [tinylibs/tinyspy](https://github.com/tinylibs/tinyspy)<br>
-9. ⭐ Starred [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic)<br>
-10. 💬 Commented on [#175](https://github.com/CCExtractor/beacon/pull/175#issuecomment-1399417271) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)<br>
+1. ⭐ Starred [qdrant/qdrant](https://github.com/qdrant/qdrant)<br>
+2. ⭐ Starred [literalEval/logger_chan](https://github.com/literalEval/logger_chan)<br>
+3. ⭐ Starred [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)<br>
+4. 🎉 Merged PR [#68](https://github.com/Sochem/Sochem-App/pull/68) in [Sochem/Sochem-App](https://github.com/Sochem/Sochem-App)<br>
+5. 💪 Opened PR [#68](https://github.com/Sochem/Sochem-App/pull/68) in [Sochem/Sochem-App](https://github.com/Sochem/Sochem-App)<br>
+6. 💬 Commented on [#108](https://github.com/CCExtractor/beacon-backend/issues/108#issuecomment-1400528262) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)<br>
+7. ⭐ Starred [tinylibs/tinyspy](https://github.com/tinylibs/tinyspy)<br>
+8. ⭐ Starred [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)<br>
+9. ⭐ Starred [tinylibs/tinyspy](https://github.com/tinylibs/tinyspy)<br>
+10. ⭐ Starred [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic)<br>
 <!--RECENT_ACTIVITY:end-->
 
 [![@itsadityaksingh's Holopin board](https://holopin.me/itsadityaksingh)](https://holopin.io/@itsadityaksingh)
