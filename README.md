@@ -60,16 +60,16 @@
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [qdrant/qdrant](https://github.com/qdrant/qdrant)<br>
-2. ⭐ Starred [literalEval/logger_chan](https://github.com/literalEval/logger_chan)<br>
-3. ⭐ Starred [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)<br>
-4. 🎉 Merged PR [#68](https://github.com/Sochem/Sochem-App/pull/68) in [Sochem/Sochem-App](https://github.com/Sochem/Sochem-App)<br>
-5. 💪 Opened PR [#68](https://github.com/Sochem/Sochem-App/pull/68) in [Sochem/Sochem-App](https://github.com/Sochem/Sochem-App)<br>
-6. 💬 Commented on [#108](https://github.com/CCExtractor/beacon-backend/issues/108#issuecomment-1400528262) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)<br>
-7. ⭐ Starred [tinylibs/tinyspy](https://github.com/tinylibs/tinyspy)<br>
-8. ⭐ Starred [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)<br>
+1. 💪 Opened PR [#1](https://github.com/bhav-khurana/photo_resizer/pull/1) in [bhav-khurana/photo_resizer](https://github.com/bhav-khurana/photo_resizer)<br>
+2. 🔱 Forked [ItsAdityaKSingh/photo_resizer](https://github.com/ItsAdityaKSingh/photo_resizer) from [bhav-khurana/photo_resizer](https://github.com/bhav-khurana/photo_resizer)<br>
+3. ⭐ Starred [qdrant/qdrant](https://github.com/qdrant/qdrant)<br>
+4. ⭐ Starred [literalEval/logger_chan](https://github.com/literalEval/logger_chan)<br>
+5. ⭐ Starred [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)<br>
+6. 🎉 Merged PR [#68](https://github.com/Sochem/Sochem-App/pull/68) in [Sochem/Sochem-App](https://github.com/Sochem/Sochem-App)<br>
+7. 💪 Opened PR [#68](https://github.com/Sochem/Sochem-App/pull/68) in [Sochem/Sochem-App](https://github.com/Sochem/Sochem-App)<br>
+8. 💬 Commented on [#108](https://github.com/CCExtractor/beacon-backend/issues/108#issuecomment-1400528262) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)<br>
 9. ⭐ Starred [tinylibs/tinyspy](https://github.com/tinylibs/tinyspy)<br>
-10. ⭐ Starred [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic)<br>
+10. ⭐ Starred [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)<br>
 <!--RECENT_ACTIVITY:end-->
 
 [![@itsadityaksingh's Holopin board](https://holopin.me/itsadityaksingh)](https://holopin.io/@itsadityaksingh)
