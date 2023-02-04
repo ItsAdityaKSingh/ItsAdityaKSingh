@@ -60,16 +60,16 @@
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#177](https://github.com/CCExtractor/beacon/pull/177) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)<br>
-2. 👍 Approved [#177](https://github.com/CCExtractor/beacon/pull/177#pullrequestreview-1281171626) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)<br>
-3. 💪 Opened PR [#1](https://github.com/bhav-khurana/photo_resizer/pull/1) in [bhav-khurana/photo_resizer](https://github.com/bhav-khurana/photo_resizer)<br>
-4. 🔱 Forked [ItsAdityaKSingh/photo_resizer](https://github.com/ItsAdityaKSingh/photo_resizer) from [bhav-khurana/photo_resizer](https://github.com/bhav-khurana/photo_resizer)<br>
-5. ⭐ Starred [qdrant/qdrant](https://github.com/qdrant/qdrant)<br>
-6. ⭐ Starred [literalEval/logger_chan](https://github.com/literalEval/logger_chan)<br>
-7. ⭐ Starred [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)<br>
-8. 🎉 Merged PR [#68](https://github.com/Sochem/Sochem-App/pull/68) in [Sochem/Sochem-App](https://github.com/Sochem/Sochem-App)<br>
-9. 💪 Opened PR [#68](https://github.com/Sochem/Sochem-App/pull/68) in [Sochem/Sochem-App](https://github.com/Sochem/Sochem-App)<br>
-10. 💬 Commented on [#108](https://github.com/CCExtractor/beacon-backend/issues/108#issuecomment-1400528262) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)<br>
+1. 💪 Opened PR [#4](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals/pull/4) in [COPS-IITBHU/GSoC-Accepted-Proposals](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals)<br>
+2. 🔱 Forked [ItsAdityaKSingh/GSoC-Accepted-Proposals](https://github.com/ItsAdityaKSingh/GSoC-Accepted-Proposals) from [COPS-IITBHU/GSoC-Accepted-Proposals](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals)<br>
+3. 🎉 Merged PR [#177](https://github.com/CCExtractor/beacon/pull/177) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)<br>
+4. 👍 Approved [#177](https://github.com/CCExtractor/beacon/pull/177#pullrequestreview-1281171626) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)<br>
+5. 💪 Opened PR [#1](https://github.com/bhav-khurana/photo_resizer/pull/1) in [bhav-khurana/photo_resizer](https://github.com/bhav-khurana/photo_resizer)<br>
+6. 🔱 Forked [ItsAdityaKSingh/photo_resizer](https://github.com/ItsAdityaKSingh/photo_resizer) from [bhav-khurana/photo_resizer](https://github.com/bhav-khurana/photo_resizer)<br>
+7. ⭐ Starred [qdrant/qdrant](https://github.com/qdrant/qdrant)<br>
+8. ⭐ Starred [literalEval/logger_chan](https://github.com/literalEval/logger_chan)<br>
+9. ⭐ Starred [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)<br>
+10. 🎉 Merged PR [#68](https://github.com/Sochem/Sochem-App/pull/68) in [Sochem/Sochem-App](https://github.com/Sochem/Sochem-App)<br>
 <!--RECENT_ACTIVITY:end-->
 
 [![@itsadityaksingh's Holopin board](https://holopin.me/itsadityaksingh)](https://holopin.io/@itsadityaksingh)
