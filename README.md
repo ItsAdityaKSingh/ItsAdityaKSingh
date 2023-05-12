@@ -60,11 +60,11 @@
 
 ### ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ⭐ Starred [twitter/the-algorithm](https://github.com/twitter/the-algorithm)<br>
-2. 💬 Commented on [#185](https://github.com/CCExtractor/beacon/pull/185#issuecomment-1474825511) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)<br>
-3. 💬 Commented on [#190](https://github.com/CCExtractor/beacon/pull/190#issuecomment-1474824682) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)<br>
-4. 💬 Commented on [#190](https://github.com/CCExtractor/beacon/pull/190#discussion_r1140637884) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)<br>
-5. 💬 Commented on [#189](https://github.com/CCExtractor/beacon/issues/189#issuecomment-1468107135) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)<br>
+1. 🗣 Commented on [#185](https://github.com/CCExtractor/beacon/issues/185) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
+2. 🗣 Commented on [#190](https://github.com/CCExtractor/beacon/issues/190) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
+3. 🗣 Commented on [#189](https://github.com/CCExtractor/beacon/issues/189) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
+4. 🗣 Commented on [#191](https://github.com/CCExtractor/beacon/issues/191) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
+5. 🗣 Commented on [#191](https://github.com/CCExtractor/beacon/issues/191) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)
 6. ⭐ Starred [Sochem/Osmoze-23](https://github.com/Sochem/Osmoze-23)<br>
 7. 💬 Commented on [#191](https://github.com/CCExtractor/beacon/issues/191#issuecomment-1468066619) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)<br>
 8. 💬 Commented on [#191](https://github.com/CCExtractor/beacon/issues/191#issuecomment-1467441945) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)<br>
