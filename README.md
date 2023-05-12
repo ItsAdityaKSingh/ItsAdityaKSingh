@@ -59,7 +59,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ItsAdityaKSingh&show_icons=true&theme=swift" /></p>
 
 ### ⚡ Recent GitHub Activity
-<!--RECENT_ACTIVITY:start-->
+<!--START_SECTION:activity-->
 1. ⭐ Starred [twitter/the-algorithm](https://github.com/twitter/the-algorithm)<br>
 2. 💬 Commented on [#185](https://github.com/CCExtractor/beacon/pull/185#issuecomment-1474825511) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)<br>
 3. 💬 Commented on [#190](https://github.com/CCExtractor/beacon/pull/190#issuecomment-1474824682) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)<br>
@@ -70,7 +70,7 @@
 8. 💬 Commented on [#191](https://github.com/CCExtractor/beacon/issues/191#issuecomment-1467441945) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)<br>
 9. ⭐ Starred [Pyozer/introduction_screen](https://github.com/Pyozer/introduction_screen)<br>
 10. 💬 Commented on [#190](https://github.com/CCExtractor/beacon/pull/190#issuecomment-1466073936) in [CCExtractor/beacon](https://github.com/CCExtractor/beacon)<br>
-<!--RECENT_ACTIVITY:end-->
+<!--END_SECTION:activity-->
 
 [![@itsadityaksingh's Holopin board](https://holopin.me/itsadityaksingh)](https://holopin.io/@itsadityaksingh)
 
